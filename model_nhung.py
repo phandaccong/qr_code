@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Tài liệu nhóm DP-03")
 st.write("Dự án phân tích nguy cơ mắc bệnh nhồi máu cơ tim hứa hẹn mang lại nhiều lợi ích cho cộng đồng, đặc biệt là những người có yếu tố nguy cơ cao. Dự án giúp dự đoán sớm nguy cơ mắc bệnh, từ đó hỗ trợ bác sĩ can thiệp kịp thời, giảm tỷ lệ tử vong và cải thiện chất lượng cuộc sống.")
-st.markdown("<h1 style='text-align: center;'>**Lời khuyên Từ chuyên gia:**</h1>", unsafe_allow_html=True)
+st.markdown("<h4 style='text-align: center;'>Lời khuyên Từ chuyên gia:</h4>", unsafe_allow_html=True)
 st.write(" + Tập thể dục thường xuyên")
 st.write(" + Kiểm soát cân nặng")
 st.write(" + Kiểm tra huyết áp và cholesterol")
