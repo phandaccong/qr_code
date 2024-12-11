@@ -11,7 +11,7 @@ st.markdown("""
             font-weight: bold; /* In đậm văn bản */
         }
     </style>
-    <p class="centered-text">Tập thể dục thường xuyên
+    <p class="centered-text">Tập thể dục thường xuyên\n
                             Kiểm soát cân nặng</p>
     <p class="centered-text">Kiểm soát cân nặng</p>
     <p class="centered-text">Kiểm tra huyết áp và cholesterol</p>
